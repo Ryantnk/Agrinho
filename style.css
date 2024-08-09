@@ -1,30 +1,42 @@
 .body { 
-    margin: 1%;
-    padding: auto;
-    background-image:url(photo-1495107334309-fcf20504a5ab.avif);
+  margin: 1%;
+  padding: auto;
+  background-image:url(photo-1495107334309-fcf20504a5ab.avif);
 }
- .texto1{
-    margin: 1%;
-    padding: 25px;
-    background-color: rgb(242, 255, 0);
+
+.cabeçalho{
+  text-align: center;
+}
+.imagem1{
+  width: 30%;
+}
+.texto1{
+  margin: 1%;
+  padding: 25px;
+  background-color: rgb(85, 255, 0);
 }
 .texto2{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0);
+background-color: rgb(85, 255, 0);
 }
 .texto3{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0);
+background-color: rgb(85, 255, 0);
 }
 .texto4{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0)
+background-color: rgb(85, 255, 0)
 }
 .texto5{
 margin: 1%;
 padding: 10px;
-background-color: rgb(242, 255, 0)
+background-color: rgb(85, 255, 0)
 }
+.texto6{
+  margin: 1%;
+  padding: 10px;
+  background-color: rgb(85, 255, 0)
+  }

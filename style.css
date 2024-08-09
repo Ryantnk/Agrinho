@@ -1,17 +1,30 @@
-.body{
-  padding: auto;
-  margin: 0%;
+.body { 
+    margin: 1%;
+    padding: auto;
+    background-image:url(photo-1495107334309-fcf20504a5ab.avif);
 }
-
-.cabeçalho{
-
-  background-color: darkolivegreen;
-  margin: 5%;
-  padding: 10px;
-  text-align: center;
+ .texto1{
+    margin: 1%;
+    padding: 25px;
+    background-color: rgb(242, 255, 0);
 }
-
-.informações{
-
-  background-color: khaki;
+.texto2{
+margin: 1%;
+padding: 10px;
+background-color: rgb(242, 255, 0);
+}
+.texto3{
+margin: 1%;
+padding: 10px;
+background-color: rgb(242, 255, 0);
+}
+.texto4{
+margin: 1%;
+padding: 10px;
+background-color: rgb(242, 255, 0)
+}
+.texto5{
+margin: 1%;
+padding: 10px;
+background-color: rgb(242, 255, 0)
 }
